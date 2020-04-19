@@ -50,7 +50,7 @@ namespace dockerapi
                         TermsOfService = "None",
                         Contact = new Contact
                         {
-                            Name = "John Smith",
+                            Name = "Cloud Mustafa",
                         },
                     });
                     var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
